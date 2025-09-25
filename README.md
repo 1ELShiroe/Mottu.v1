@@ -1,3 +1,6 @@
+## Observação
+
+Este é um projeto simples, criado como base inicial. Ainda serão implementadas melhorias, refatorações e testes para garantir maior robustez e qualidade no código.
 
 ---
 
